@@ -192,6 +192,11 @@ input[type="password"] {
   font-weight: 600;
 }
 
+.textarea input{
+    width: 90%;
+    height: 40%;
+}
+
 @media (min-width: 360px) and (max-width: 640px) {
   .cover-flex {
     flex-direction: column;
